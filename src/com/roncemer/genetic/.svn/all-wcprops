@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/tic/!svn/ver/1/src/com/roncemer/genetic
+END
+IncrementCrossoverFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/tic/!svn/ver/1/src/com/roncemer/genetic/IncrementCrossoverFunction.java
+END
+FitnessFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/tic/!svn/ver/1/src/com/roncemer/genetic/FitnessFunction.java
+END
+GeneticAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/tic/!svn/ver/1/src/com/roncemer/genetic/GeneticAlgorithm.java
+END
+GATest.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/tic/!svn/ver/1/src/com/roncemer/genetic/GATest.java
+END
+OnePointCrossoverFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/tic/!svn/ver/1/src/com/roncemer/genetic/OnePointCrossoverFunction.java
+END
+CrossoverFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/tic/!svn/ver/1/src/com/roncemer/genetic/CrossoverFunction.java
+END
+RandomCrossoverFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/tic/!svn/ver/1/src/com/roncemer/genetic/RandomCrossoverFunction.java
+END

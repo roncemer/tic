@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/tic/!svn/ver/1/src/com/roncemer/neural
+END
+TanhActivationFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/tic/!svn/ver/1/src/com/roncemer/neural/TanhActivationFunction.java
+END
+BackPropagationNeuralNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/tic/!svn/ver/1/src/com/roncemer/neural/BackPropagationNeuralNetwork.java
+END
+BackPropagationNeuralNetworkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tic/!svn/ver/1/src/com/roncemer/neural/BackPropagationNeuralNetworkTest.java
+END
+ActivationFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/tic/!svn/ver/1/src/com/roncemer/neural/ActivationFunction.java
+END

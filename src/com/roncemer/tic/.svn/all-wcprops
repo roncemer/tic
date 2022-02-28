@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic
+END
+GeneticTic1.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/GeneticTic1.java
+END
+Tic.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/Tic.java
+END
+GeneticTic2.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/GeneticTic2.java
+END
+allboards.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/allboards.txt
+END
+AllBoards.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/AllBoards.java
+END
+NeuralPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/NeuralPlayer.java
+END
+FindAllBoards.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/FindAllBoards.java
+END
+SequencePlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/SequencePlayer.java
+END
+NeuralTic.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/NeuralTic.java
+END
+IdealPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/IdealPlayer.java
+END
+GeneticPlayer1.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/GeneticPlayer1.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/Player.java
+END
+GeneticPlayer2.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/GeneticPlayer2.java
+END
+RandomPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/tic/!svn/ver/1/src/com/roncemer/tic/RandomPlayer.java
+END
